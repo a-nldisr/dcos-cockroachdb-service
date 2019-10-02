@@ -6,14 +6,14 @@
       "scheduler-zip": "{{artifact-dir}}/cockroachdb-scheduler.zip",
       "executor-zip": "{{artifact-dir}}/executor.zip",
       "bootstrap-zip": "{{artifact-dir}}/bootstrap.zip",
-      "cockroach-tgz": "https://binaries.cockroachdb.com/cockroach-v2.1.4.linux-amd64.tgz"
+      "cockroach-tgz": "https://binaries.cockroachdb.com/cockroach-v19.1.4.linux-amd64.tgz"
     }
   },
 
   "images": {
-    "icon-small": "http://i.imgur.com/FsEREZI.png",
-    "icon-medium": "http://i.imgur.com/1DvX5di.png?1",
-    "icon-large": "http://i.imgur.com/P1mjjGK.png"
+    "icon-small": "https://i.imgur.com/FsEREZI.png",
+    "icon-medium": "https://i.imgur.com/1DvX5di.png?1",
+    "icon-large": "https://i.imgur.com/P1mjjGK.png"
   },
   "cli":{
     "binaries":{
